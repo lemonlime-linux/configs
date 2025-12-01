@@ -1,0 +1,8 @@
+# Editor/OS junk
+.DS_Store
+Thumbs.db
+*~
+
+# Sometimes, if you generate compiled schemas, add lines like:
+/*.bin
+*.compiled
