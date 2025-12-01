@@ -1,19 +1,15 @@
 # Lemonlime Linux Configurations
 
-This repository provides the default configuration files, desktop environment settings, and theming for Lemonlime Linux.
+Default configuration files, desktop environment settings, and theming assets for Lemonlime Linux.
 
 ## About
-
-User experience starts with great defaults. Here we curate system configs, dotfiles, dconf dumps, and more to deliver a cohesive desktop.
+This repository maintains curated defaults, including system configs, dotfiles, theming templates, and desktop environment state.
 
 ## Contributing
-
-Help us refine our system setup and theming! Suggestions and PRs welcome.
+Suggestions and pull requests are welcome.
 
 ## Project Roadmap
-
-See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1) for high-level goals, milestones, and progress across all repositories.
+See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1).
 
 ## License
-
 [GNU GPL-3.0](LICENSE)
